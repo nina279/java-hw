@@ -1,7 +1,7 @@
 package HW7;
 
 import java.time.LocalDate;
-
+//
 public class Credit {
     private int clientId;
     private double amount;
